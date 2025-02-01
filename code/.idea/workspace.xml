@@ -2,10 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef60b7d5-6574-410f-91e8-5812df738c70" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/panda3core/src/main/scala/de/uniulm/ki/panda3/configuration/PlanningConfiguration.scala" beforeDir="false" afterPath="$PROJECT_DIR$/panda3core/src/main/scala/de/uniulm/ki/panda3/configuration/PlanningConfiguration.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BachelorArbeit_LinusDiepold.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HDDL_Parser/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HDDL_Parser/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HDDL_Parser/HDDLFiles.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HDDL_Parser/HDDL_Parser.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HDDL_Parser/out/production/HDDL_Parser/com/company/CSVUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HDDL_Parser/out/production/HDDL_Parser/com/company/CausalFlaw.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HDDL_Parser/out/production/HDDL_Parser/com/company/CausalLink.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HDDL_Parser/out/production/HDDL_Parser/com/company/InputParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HDDL_Parser/out/production/HDDL_Parser/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HDDL_Parser/out/production/HDDL_Parser/com/company/OpenPrecondition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HDDL_Parser/out/production/HDDL_Parser/com/company/OrderingFlaw.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HDDL_Parser/out/production/HDDL_Parser/com/company/OutputParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HDDL_Parser/out/production/HDDL_Parser/com/company/PDDLParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HDDL_Parser/out/production/HDDL_Parser/com/company/Utillity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HDDL_Parser/out/production/HDDL_Parser/com/company/planStep.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hs_err_pid10438.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hs_err_pid31211.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/code/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/code/.idea/src.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/code/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/code/com/.idea/com.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/code/com/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/code/com/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stuff/Zeitplan-aktualisiert.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stuff/Zeitplan.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stuff/makespan-p.hddl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stuff/makespan.hddl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stuff/tikz-bib/example.aux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stuff/tikz-bib/example.fdb_latexmk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stuff/tikz-bib/example.fls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stuff/tikz-bib/example.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stuff/tikz-bib/example.nav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stuff/tikz-bib/example.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stuff/tikz-bib/example.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stuff/tikz-bib/example.snm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stuff/tikz-bib/example.synctex.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stuff/tikz-bib/example.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stuff/tikz-bib/example.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stuff/tikz-bib/example.vrb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stuff/tikz-bib/tikzlibraryaiplans.code.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../token" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,9 +61,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="code" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -122,8 +161,20 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/panda3core" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AnonymerAlgorithmiker&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AnonymerAlgorithmiker/BachelorArbeit.git&quot;,
+    &quot;accountId&quot;: &quot;9d64da7c-d69f-410f-9382-906344589878&quot;
+  }
+}</component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -154,12 +205,16 @@
       </list>
     </option>
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectFrameBounds">
     <option name="x" value="16" />
     <option name="y" value="51" />
     <option name="width" value="1888" />
     <option name="height" value="1013" />
   </component>
+  <component name="ProjectId" id="2sRcVJbR0bWBFFrta2xukYK2Hdq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -216,20 +271,19 @@
       <pane id="PackagesPane" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555344998047" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/HDDL_Parser" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/linus/Git/BachelorArbeit/code"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="tests" />
@@ -252,6 +306,8 @@
   </component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="bachelorarbeit" />
       <option name="PROGRAM_PARAMETERS" value="input/IPC2/logistic.log" />
@@ -353,6 +409,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
   </component>
@@ -465,19 +522,16 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/company/Backward_Justification.java</url>
           <line>48</line>
-          <properties />
           <option name="timeStamp" value="71" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/tests/JUnitTests.java</url>
           <line>21</line>
-          <properties />
           <option name="timeStamp" value="77" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/company/Backward_Justification.java</url>
           <line>79</line>
-          <properties />
           <option name="timeStamp" value="82" />
         </line-breakpoint>
       </breakpoints>

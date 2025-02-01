@@ -1,19 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc037571-df6e-4d80-ab14-a88d2a9a1131" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="dc037571-df6e-4d80-ab14-a88d2a9a1131" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../BachelorArbeit_LinusDiepold.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HDDL_Parser/HDDLFiles.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HDDL_Parser/HDDL_Parser.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HDDL_Parser/out/production/HDDL_Parser/com/company/CSVUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HDDL_Parser/out/production/HDDL_Parser/com/company/CausalFlaw.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HDDL_Parser/out/production/HDDL_Parser/com/company/CausalLink.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HDDL_Parser/out/production/HDDL_Parser/com/company/InputParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HDDL_Parser/out/production/HDDL_Parser/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HDDL_Parser/out/production/HDDL_Parser/com/company/OpenPrecondition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HDDL_Parser/out/production/HDDL_Parser/com/company/OrderingFlaw.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HDDL_Parser/out/production/HDDL_Parser/com/company/OutputParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HDDL_Parser/out/production/HDDL_Parser/com/company/PDDLParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HDDL_Parser/out/production/HDDL_Parser/com/company/Utillity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HDDL_Parser/out/production/HDDL_Parser/com/company/planStep.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bachelorarbeit.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hs_err_pid10438.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hs_err_pid31211.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/code/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/code/.idea/src.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/code/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/code/com/.idea/com.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/code/com/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/code/com/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stuff/Zeitplan-aktualisiert.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stuff/Zeitplan.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stuff/makespan-p.hddl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stuff/makespan.hddl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stuff/tikz-bib/example.aux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stuff/tikz-bib/example.fdb_latexmk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stuff/tikz-bib/example.fls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stuff/tikz-bib/example.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stuff/tikz-bib/example.nav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stuff/tikz-bib/example.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stuff/tikz-bib/example.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stuff/tikz-bib/example.snm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stuff/tikz-bib/example.synctex.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stuff/tikz-bib/example.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stuff/tikz-bib/example.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stuff/tikz-bib/example.vrb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stuff/tikz-bib/tikzlibraryaiplans.code.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../token" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AnonymerAlgorithmiker"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AnonymerAlgorithmiker/BachelorArbeit.git",
+    "accountId": "9d64da7c-d69f-410f-9382-906344589878"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
   <component name="ProjectFrameBounds">
     <option name="x" value="29" />
     <option name="y" value="64" />
     <option name="width" value="1244" />
     <option name="height" value="1347" />
   </component>
+  <component name="ProjectId" id="2sRdqlDsUFdKbAvkILavYxsN5TT" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -50,9 +113,19 @@
       <pane id="Scope" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/linus/Git/BachelorArbeit/code/HDDL_Parser"
+  }
+}]]></component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -65,6 +138,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
